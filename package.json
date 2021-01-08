@@ -1,0 +1,15 @@
+{
+  "name": "adyen-payment-encryption",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "jsbn": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node app"
+  },
+  "author": "",
+  "license": "ISC"
+}
